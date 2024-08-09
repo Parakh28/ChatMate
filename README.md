@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/07c29493-b530-475c-8fbb-0f293f818f9a)# ChatMate
+# ChatMate
+![image](https://github.com/user-attachments/assets/07c29493-b530-475c-8fbb-0f293f818f9a)
 
 ChatMate is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
