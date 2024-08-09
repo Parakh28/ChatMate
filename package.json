@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node backend/server.js",
     "server":"nodemon backend/server.js",
+    "build": "npm install && npm install  chatmate && npm run build  chatmate"
 
-    "build": "npm install chatmate && npm run build chatmate"
   },
   "author": "Parakh Tyagi",
   "license": "ISC",
